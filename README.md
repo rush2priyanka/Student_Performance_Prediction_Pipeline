@@ -15,20 +15,20 @@ I built an end‑to‑end machine learning workflow that takes raw student data 
 ### 1. Created a GitHub repository
 1. Logged in to GitHub and click **“New repository.”**  
 2. Named it `Challenge_1` and set it to **Private**.  
-3. Click **Create repository**.
+3. Clicked **Create repository**.
 
-### 2. Add collaborators
-- Go to **Settings → Manage access → Invite a collaborator**  
-- Invite:
+### 2. Added collaborators
+- To Add Collaborators **Settings → Manage access → Invite a collaborator**  
+- Invited:
   - `waseemga`
   - `khammingfatt-analytico`
 
-### 3. Clone and push your code
+### 3. Cloneed and pushed code
 ```bash
-git clone git@github.com:<your-username>/Challenge_1.git
+git clone git@github.com:rush2priyanka/Challenge_1.git
 cd Challenge_1
 
-# Copy your local files into this folder, then:
+# Copied local files into this folder, then:
 git add .
 git commit -m "Initial commit: add EDA, src/, requirements, run.sh, README"
 git push
