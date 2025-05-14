@@ -17,13 +17,7 @@ I built an end‑to‑end machine learning workflow that takes raw student data 
 2. Named it `Challenge_1` and set it to **Private**.  
 3. Clicked **Create repository**.
 
-### 2. Added collaborators
-- To Add Collaborators **Settings → Manage access → Invite a collaborator**  
-- Invited:
-  - `waseemga`
-  - `khammingfatt-analytico`
-
-### 3. Cloneed and pushed code
+### 2. Cloneed and pushed code
 ```bash
 git clone git@github.com:rush2priyanka/Challenge_1.git
 cd Challenge_1
