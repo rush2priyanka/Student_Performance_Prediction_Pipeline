@@ -13,9 +13,10 @@ I built an end‑to‑end machine learning workflow that takes raw student data 
 ## Repository Setup
 
 ### 1. Created a GitHub repository
-1. Logged in to GitHub and click **“New repository.”**  
-2. Named it `Challenge_1` and set it to **Private**.  
-3. Clicked **Create repository**.
+1. Log in to GitHub as rush2priyanka.  
+2. Click New and name the repo Student_Performance_Prediction_Pipeline  
+3. Set Visibility to Public.
+4. Click Create repository.
 
 ### 2. Cloneed and pushed code
 ```bash
